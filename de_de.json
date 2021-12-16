@@ -1,6 +1,6 @@
 {
   "Language Display Name": "Deutsch (DE)",
-  "Monsta FTP Version":    "2.9.1",
+  "Monsta FTP Version":    "2.10.3",
   "Original Author":       "Michael Groß (Michael.Gross@mgw94.de)",
   "Contributors":          "",
 
@@ -259,7 +259,7 @@
   "SFTP_AUTHENTICATION_DISABLED_MESSAGE": "Diese Authentifizierungsmethode ist aus Sicherheitsgründen standardmäßig deaktiviert.",
   "SFTP_AUTHENTICATION_ENABLED_INSTRUCTIONS_MESSAGE": "Eine Anleitung zur Aktivierung finden Sie hier.",
 
-  "LOGIN_FAILURE_EXCEEDED_ERROR": "Zu viele falsche Anmeldeversuche. Bitte versuchen Sie es erneut in {banTimeMinutes} {banTimeMinutes, plural, one{minute} other{minutes}}.",
+  "LOGIN_FAILURE_EXCEEDED_ERROR": "Zu viele falsche Anmeldeversuche. Bitte versuchen Sie es erneut in {banTimeMinutes} {banTimeMinutes, plural, one{Minute} other{Minuten}} erneut.",
   "TLS_REQUIRED_ERROR": "Für den Server, mit dem Sie sich verbinden, muss SSL aktiviert sein.",
   "PASTE_TO_SUB_DIRECTORY_ERROR": "Kann ein Verzeichnis nicht in sich selbst einfügen.",
 
